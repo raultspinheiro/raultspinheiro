@@ -16,7 +16,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,python,streamlit,pandas,matplotlib,sklearn,numpy,selenium,html,css,bash,linux" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,python,streamlit,pandas,matplotlib,sklearn,numpy,selenium,bash,linux" />
   </a>
 <p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raultspinheiro&show_icons=true&theme=dark&locale=en&layout=compact" alt="raultspinheiro" /></p>
