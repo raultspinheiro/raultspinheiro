@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raultspinheiro&label=Profile%20views&color=000000&style=flat" alt="raultspinheiro" /> </p>
 
-- 🌱 I’m currently learning **AI, Data Science, Machine Learning, Deep Learning** and some web programming
-
+- 🌱 I’m currently learning **AI, Data Science, Machine Learning, Deep Learning** and some Competitive Programming(C++)
 - 📫 How to reach me **raultspinheiro@gmail.com**
 
 - ⚡ Fun fact **I love motorcycles**
@@ -16,7 +15,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,python,streamlit,pandas,matplotlib,sklearn,numpy,selenium,bash,linux" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,python,streamlit,pandas,matplotlib,sklearn,numpy,selenium,cpp,bash,linux" />
   </a>
 <p></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raultspinheiro&show_icons=true&theme=dark&locale=en&layout=compact" alt="raultspinheiro" /></p>
