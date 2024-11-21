@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raul Pinheiro</h1>
+<!--<h1 align="center">Hi 👋, I'm Raul Pinheiro</h1>
 <h3 align="center">A High School student from Portugal that loves to code in free time</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raultspinheiro&label=Profile%20views&color=000000&style=flat" alt="raultspinheiro" /> </p>
@@ -29,3 +29,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raultspinheiro/raultspinheiro/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raultspinheiro/raultspinheiro/output/github-contribution-grid-snake.svg">
 </picture>
+
+--!>
