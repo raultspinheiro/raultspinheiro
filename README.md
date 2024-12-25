@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m a high school student<br>🌱 I’m currently learning Python<br>💬 I'm 17 and I code for fun!<br>⚡ Fun fact: I love motorcycles
+🔭 I’m a <strong>high school student</strong><br>🌱 I’m currently learning <strong>Python</strong><br>💬 I'm <strong>17</strong> and I code for fun!<br>⚡ Fun fact: I love <strong>motorcycles</strong> and <strong>synthwave aeshetics</strong>. One of my favourite games its <strong>Grand Theft Auto Vice City</strong>
 
 
 ## 🌐 Socials:
