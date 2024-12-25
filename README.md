@@ -1,33 +1,21 @@
-<!--<h1 align="center">Hi 👋, I'm Raul Pinheiro</h1>
-<h3 align="center">A High School student from Portugal that loves to code in free time</h3>
+# 💫 About Me:
+🔭 I’m a high school student<br>🌱 I’m currently learning Python<br>💬 I'm 17 and I code for fun!<br>⚡ Fun fact: I love motorcycles
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raultspinheiro&label=Profile%20views&color=000000&style=flat" alt="raultspinheiro" /> </p>
 
-- 🌱 I’m currently learning **AI, Data Science, Machine Learning, Deep Learning** and some Competitive Programming(C++)
-- 📫 How to reach me **raultspinheiro@gmail.com**
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/493084892679372840) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_raul.tsilva) 
 
-- ⚡ Fun fact **I love motorcycles**
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=raultspinheiro&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=raultspinheiro&theme=synthwave&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=raultspinheiro&theme=synthwave&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/_raul.tsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_raul.tsilva" height="30" width="40" /></a>
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">Languages and Tools:</h3>
-  <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=git,python,streamlit,pandas,matplotlib,sklearn,numpy,selenium,cpp,bash,linux" />
-  </a>
-<p></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raultspinheiro&show_icons=true&theme=dark&locale=en&layout=compact" alt="raultspinheiro" /></p>
+---
+[![](https://visitcount.itsvg.in/api?id=raultspinheiro&icon=2&color=11)](https://visitcount.itsvg.in)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raultspinheiro&show_icons=true&theme=dark&locale=en" alt="raultspinheiro" /></p>
-
-#
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raultspinheiro/raultspinheiro/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raultspinheiro/raultspinheiro/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/raultspinheiro/raultspinheiro/output/github-contribution-grid-snake.svg">
-</picture>
-
---!>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
